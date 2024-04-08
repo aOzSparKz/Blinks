@@ -23,7 +23,10 @@ const Hero = () => {
           IT Department
           </p>  
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          For technical support please contact :<br className='sm:block hidden' />
+          For technical support<br className='sm:block hidden' />
+          </p>  
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          please contact :<br className='sm:block hidden' />
           </p>  
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           <br className='sm:block hidden' />
