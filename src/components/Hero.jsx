@@ -30,14 +30,14 @@ const Hero = () => {
           </p>  
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           <br className='sm:block hidden' />
-          </p>  
+          </p> 
            
           <button
   className={`${styles.heroSubText} mt-2 text-white-100`}
   style={{
     borderRadius: '10px',
     border: '1px solid #8a2be2',
-    padding: '8px 16px', // Adjust the padding as neededgit init
+    padding: '2px 8px', // Adjust the padding as neededgit init
   }}
   onClick={() => window.location.href = 'tel:09451049548'}
 >
